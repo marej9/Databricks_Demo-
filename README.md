@@ -1,2 +1,2 @@
-# Databricks_Demo-
+# Databricks_Demo
 Udemy Databricks preparation for Certificate 
